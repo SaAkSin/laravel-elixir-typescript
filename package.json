@@ -1,6 +1,6 @@
 {
   "name": "saaksin-elixir-typescript",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Laravel Elixir Typescript Compiler Extension",
   "main": "index.js",
   "scripts": {
