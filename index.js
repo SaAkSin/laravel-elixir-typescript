@@ -48,5 +48,5 @@ Elixir.extend('typescript', function(src, output) {
 var prepGulpPaths = function(src, output) {
     return new Elixir.GulpPaths()
         .src(src, tsFolder)
-        .output(output || tsOutput, ' <- js Files');
+        .output(output || tsOutput, 'app.js');
 };
